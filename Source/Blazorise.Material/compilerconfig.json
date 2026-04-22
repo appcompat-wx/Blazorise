@@ -1,9 +1,0 @@
-﻿[
-  {
-    "outputFile": "wwwroot/blazorise.material.css",
-    "inputFile": "Styles/blazorise.material.scss",
-    "options": {
-      "relativeUrls": false
-    }
-  }
-]
