@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Debug.Blazorise": {
-      "commandName": "DebugRoslynComponent",
-      "targetProject": "..\\..\\Blazorise\\Blazorise.csproj"
-    }
-  }
-}
